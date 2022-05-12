@@ -6,5 +6,33 @@
     align-items: center;
     justify-content: center;
     background-color: white;
-    box-shadow: 0 3px 13px 1px rgb(0,0,0 /9%);
+    box-shadow: 0 3px 13px 1px rgba(0 0 0 /9%);
+}
+
+.image-comment{
+    height: 100%;
+    width: 100;
+}
+
+.container-text-comment{
+    text-align: center;
+    padding: 40px;
+    font-family: Lato, sans-serif;
+    font-weight: 400;
+    line-height: 1.5rem;
+}
+
+.name-comment{
+    font-size: 1.3rem;
+}
+
+.job-comment{
+    font-size: 1.3rem;
+    margin-top: 15px;
+    padding-bottom: 30px;
+}
+
+.text-comment{
+    font-size: 1.1rem;
+    text-align: justify;
 }
